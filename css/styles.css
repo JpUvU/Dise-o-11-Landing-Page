@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f9f9f9;
+    color: #333;
+}
+
+/* === HEADER === */
+header {
+    background: #111;
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+}
